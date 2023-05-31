@@ -5,9 +5,8 @@ To run this code locally:
 
 `sudo git clone https://github.com/debjit-mandal/Tic-Tac-Toe`
 
-`cd Tic-Tac-Toe`
+`cd Tic-Tac-Toe/src`
 
-`cd src/TicTacToe`
 
 `javac TicTacToe.java`
 
